@@ -1,0 +1,5 @@
+{
+    "consumer_key": "OGTWud5yfmmJvdLmGAjk0A",
+    "consumer_secret": "MrVGsjYLHonCVZgKVOubYKG1dTI7HD7fxATjJRlS1HM",
+    "callback_url": "http://27.120.111.32/twitter_api/callback.php"
+}
